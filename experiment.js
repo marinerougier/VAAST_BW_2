@@ -1805,6 +1805,14 @@ var iat_instructions_2 = {
     "<p class = 'continue-instructions'>Press <strong>space</strong> to continue.</p>",
   choices: [32]
 };
+
+// Trust task --------------------------------------------------------------------------------
+// Trust task variables ----------------------------------------------------------------------
+
+
+
+
+
 // Demographic block ---------------------------------------------------------------------
 // Demographic variables
 var mcq_sexe_options = ["Male", "Female"];
